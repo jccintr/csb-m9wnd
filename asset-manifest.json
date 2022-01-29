@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://jccintr.github.io/csb-m9wnd/static/css/main.84f0c90b.chunk.css",
-    "main.js": "https://jccintr.github.io/csb-m9wnd/static/js/main.28d56b60.chunk.js",
-    "main.js.map": "https://jccintr.github.io/csb-m9wnd/static/js/main.28d56b60.chunk.js.map",
+    "main.js": "https://jccintr.github.io/csb-m9wnd/static/js/main.1ec7d3ac.chunk.js",
+    "main.js.map": "https://jccintr.github.io/csb-m9wnd/static/js/main.1ec7d3ac.chunk.js.map",
     "runtime-main.js": "https://jccintr.github.io/csb-m9wnd/static/js/runtime-main.0f140360.js",
     "runtime-main.js.map": "https://jccintr.github.io/csb-m9wnd/static/js/runtime-main.0f140360.js.map",
     "static/js/2.eca93ddc.chunk.js": "https://jccintr.github.io/csb-m9wnd/static/js/2.eca93ddc.chunk.js",
@@ -10,12 +10,12 @@
     "index.html": "https://jccintr.github.io/csb-m9wnd/index.html",
     "static/css/main.84f0c90b.chunk.css.map": "https://jccintr.github.io/csb-m9wnd/static/css/main.84f0c90b.chunk.css.map",
     "static/js/2.eca93ddc.chunk.js.LICENSE.txt": "https://jccintr.github.io/csb-m9wnd/static/js/2.eca93ddc.chunk.js.LICENSE.txt",
-    "static/media/logo-pe-da-serra.ea6920ef.png": "https://jccintr.github.io/csb-m9wnd/static/media/logo-pe-da-serra.ea6920ef.png"
+    "static/media/logo-pe-da-serra.fce0f2ab.png": "https://jccintr.github.io/csb-m9wnd/static/media/logo-pe-da-serra.fce0f2ab.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0f140360.js",
     "static/js/2.eca93ddc.chunk.js",
     "static/css/main.84f0c90b.chunk.css",
-    "static/js/main.28d56b60.chunk.js"
+    "static/js/main.1ec7d3ac.chunk.js"
   ]
 }
